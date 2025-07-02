@@ -11,3 +11,4 @@ learning
 ├── requirements.txt      # List of required packages for your project
 ├── README.md             # Project description and instructions
 └── ...                   # Other files or folders (data, modules, etc.)
+### this explains the structure of python folder.
